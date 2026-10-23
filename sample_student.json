@@ -1,0 +1,10 @@
+{
+  "name": "Aarav Sharma",
+  "subjects": [
+    { "name": "Mathematics", "marks": 92, "max_marks": 100 },
+    { "name": "Physics", "marks": 88, "max_marks": 100 },
+    { "name": "Chemistry", "marks": 79, "max_marks": 100 },
+    { "name": "English", "marks": 95, "max_marks": 100 },
+    { "name": "Computer Science", "marks": 98, "max_marks": 100 }
+  ]
+}
