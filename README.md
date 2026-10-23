@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Student Grade Calculator
 
 A dependency-free Python command-line app that calculates total marks, percentage,
