@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Grade Calculator
 
 A dependency-free Python command-line app that calculates total marks, percentage,
@@ -119,3 +120,6 @@ student-grade-calculator/
 │   └── test_grade_calculator.py
 └── README.md
 ```
+=======
+# student-grade-calculator
+>>>>>>> db577e7949d4e93455026776774af4ea060a65c6
